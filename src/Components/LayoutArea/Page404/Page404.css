@@ -1,0 +1,34 @@
+.Page404 {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+.Page404 h1 {
+    color: antiquewhite;
+    text-shadow: 1px 2px 3px black, -2px -3px 3px black;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.Page404 p {
+    text-shadow: 1px 2px 3px black, -2px -3px 3px black;
+    color: antiquewhite;
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+}
+
+.Page404 img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.Page404 a {
+    color: #ff8800;
+    text-decoration: none;
+}
+
+.Page404 a:hover {
+    text-decoration: underline;
+}
