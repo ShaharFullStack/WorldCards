@@ -1,0 +1,2 @@
+url = `https://api.aviationstack.com/v1/flights?access_key=${apiKey}&dep_iata=${departure}&arr_iata=${arrival}`;
+key =  f3375848585640e5175941f88d85dc5a

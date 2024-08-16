@@ -1,0 +1,50 @@
+.CountryCard {
+    height: 220px;
+    display: inline-flex;
+    text-align: left;
+    padding: 10px;
+    border-radius: 0px 150px 150px 0;
+    box-shadow: 3px 3px 3px rgb(128, 0, 107), -2px -3px 6px rgb(196, 88, 223);
+    margin-left: 20px;
+}
+
+.CountryCard:hover {
+    width: 400px;
+    display: inline-flex;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 0px 150px 150px 0;
+    box-shadow: 1px 1px 1px rgb(240, 235, 227);
+    margin-left: 20px;
+}
+
+.CountryCard span {
+
+        opacity: none;
+        color: rgb(252, 251, 249);
+        text-shadow: 2px 0 4px black, -5px 0 4px black, 2px 0 4px black;
+
+}
+
+.CountryCard span:hover  {
+    opacity: none;
+    color: rgb(241, 209, 148);
+    text-shadow: none;
+    text-shadow: 2px 0 4px black, -2px 0 4px black, 0 2px 2px black;
+}
+
+.CountryCard img {
+    border-radius: 10px;
+    vertical-align: middle;
+}
+
+.CountryCard>div:first-child {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.CountryCard>div:last-child {
+    
+}

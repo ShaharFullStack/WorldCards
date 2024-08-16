@@ -1,0 +1,50 @@
+.Countries {
+    padding: 30px;
+    align-items: center;
+}
+
+#countryInput[type="text"] {
+    border: 2px rgb(128, 0, 107) solid;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 4px;
+    width: 400px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.aboutBtn {
+    border-radius: 0 0 150px 150px;
+    background-image: linear-gradient(40deg, rgb(66, 4, 102), rgb(128, 0, 107), rgb(232, 49, 238));
+    box-shadow: 3px 3px 3px rgb(128, 0, 107), -2px -3px 6px rgb(33, 34, 34);
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    text-shadow: 2px 3px 5px #333, -3px 3px 5px white;
+}
+
+.aboutBtn:hover {
+    border-radius: 150px 150px 0 0;
+    text-shadow: none;
+    box-shadow: none;
+    background-image: linear-gradient(200deg, rgb(232, 49, 238), rgb(128, 0, 107), rgb(66, 4, 102));
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}
+
+.countryGrid {
+
+    display: grid;
+    grid-template-columns: repeat(3, 5fr);
+    gap: 30px;
+}
+
+.Countries > #countryForm {
+    padding: 30px;
+
+}
