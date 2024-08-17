@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WorldCards/static/css/main.58419f8b.css",
+    "main.js": "/WorldCards/static/js/main.8ecb7e0d.js",
+    "static/js/453.6a9ebec5.chunk.js": "/WorldCards/static/js/453.6a9ebec5.chunk.js",
+    "static/media/background.png": "/WorldCards/static/media/background.414ca0c495e57b76a6a4.png",
+    "index.html": "/WorldCards/index.html",
+    "main.58419f8b.css.map": "/WorldCards/static/css/main.58419f8b.css.map",
+    "main.8ecb7e0d.js.map": "/WorldCards/static/js/main.8ecb7e0d.js.map",
+    "453.6a9ebec5.chunk.js.map": "/WorldCards/static/js/453.6a9ebec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58419f8b.css",
+    "static/js/main.8ecb7e0d.js"
+  ]
+}
