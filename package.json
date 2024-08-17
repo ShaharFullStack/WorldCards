@@ -1,5 +1,5 @@
 {
-  "name": "world",
+  "name": "world-cards",
   "homepage": "https://ShaharFullStack.github.io/WorldCards",
   "version": "0.1.0",
   "private": true,
@@ -8,19 +8,21 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@types/jest": "^27.5.2",
-    "@types/node": "^16.18.105",
-    "@types/react": "^18.3.3",
+    "@types/node": "^18.15.0",
+    "@types/react": "^18.3.0",
     "@types/react-dom": "^18.3.0",
     "@types/react-router-dom": "^5.3.3",
-    "axios": "^1.7.4",
+    "axios": "^1.4.0",
     "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.0",
-    "react-router-native": "^6.26.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.18.6"
   },
   "scripts": {
     "predeploy": "npm run build",
