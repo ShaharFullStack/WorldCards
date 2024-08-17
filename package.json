@@ -1,6 +1,9 @@
 {
   "name": "world",
+<<<<<<< HEAD
   "homepage": "https://ShaharFullStack.github.io/WorldCards",
+=======
+>>>>>>> 4d4a58b488f1fdd5605f61be433ba352728ff6bf
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,7 +16,10 @@
     "@types/react-dom": "^18.3.0",
     "@types/react-router-dom": "^5.3.3",
     "axios": "^1.7.4",
+<<<<<<< HEAD
     "gh-pages": "^6.1.1",
+=======
+>>>>>>> 4d4a58b488f1fdd5605f61be433ba352728ff6bf
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.0",
@@ -23,8 +29,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+=======
+    "start": "react-scripts start",
+>>>>>>> 4d4a58b488f1fdd5605f61be433ba352728ff6bf
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -47,4 +57,8 @@
       "last 1 safari version"
     ]
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 4d4a58b488f1fdd5605f61be433ba352728ff6bf
